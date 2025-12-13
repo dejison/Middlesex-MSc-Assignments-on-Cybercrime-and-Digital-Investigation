@@ -45,18 +45,7 @@ The objectives of this case study are to:
 
 This project focuses on **analysis**, not accusation or enforcement.
 
-## Methodology
 
-The investigation followed a structured OSINT workflow:
-
-1. Source identification and validation
-2. Timeline reconstruction
-3. Cross-referencing of multiple independent sources
-4. Analytical synthesis of findings
-5. Ethical review and redaction
-6. Academic reporting and presentation
-
-All sources were assessed for credibility, relevance, and potential bias.
 
 ## Key Findings (Summary)
 
