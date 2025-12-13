@@ -69,6 +69,36 @@ All sources were assessed for credibility, relevance, and potential bias.
 Redaction has been applied in accordance with UK GDPR (Option C).  
 See ETHICS.md for the full redaction methodology.
 
+## Repository Structure
+
+01_case-study/
+- Redacted OSINT report
+- Redacted presentation
+
+02_evidence_redacted/
+- Supporting public-source evidence
+- Screenshots and references (where applicable)
+
+## Portfolio Alignment
+
+This repository aligns with other academic case studies in this portfolio, including:
+
+- Digital Forensics & Incident Management
+- Blockchain & Cryptocurrency Investigations
+- Applied Analytical Case Studies
+
+Across all projects, consistent standards are applied:
+- Ethical handling of data
+- UK GDPR-aligned redaction
+- Transparent methodology
+- Professional academic presentation
+
+## Disclaimer
+
+This project was completed for academic purposes.  
+All analysis is based on publicly available information and reflects the understanding at the time of writing.
+
+
 
 
 
