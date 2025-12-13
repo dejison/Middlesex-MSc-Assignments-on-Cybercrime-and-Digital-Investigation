@@ -1,6 +1,6 @@
 ## License and Ethical Use Notice
 
-Copyright © [YEAR] [YOUR NAME or GITHUB USERNAME]
+Copyright © 2025 Dejison
 
 This repository and its contents are provided for academic, educational, and research purposes only.
 
