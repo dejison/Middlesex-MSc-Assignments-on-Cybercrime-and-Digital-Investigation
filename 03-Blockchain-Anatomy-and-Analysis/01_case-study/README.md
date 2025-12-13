@@ -1,5 +1,5 @@
 # Case Study
-This folder contains the case study report and presentation.
+This folder contains the case study report, contemporaneous note and presentation.
 
 ## Methodology Overview
 
@@ -21,6 +21,13 @@ From a risk and incident analysis perspective, this project highlights:
 - Importance of ethical boundaries in blockchain investigations
 
 - ## Academic Integrity Statement
+
+This repository represents original academic work.
+All analysis is based on publicly accessible blockchain data
+and is presented for educational purposes only.
+
+
+## Academic Integrity Statement
 
 This repository represents original academic work.
 All analysis is based on publicly accessible blockchain data
