@@ -6,7 +6,8 @@ All identifiers redacted. Tools: Autopsy and FTK.
 
 This folder contains redacted evidential artefacts.
 
-Original unredacted material is not published.
+Original unredacted material is not published. Redaction follows data minimisation, purpose limitation,
+and harm-prevention principles.
 All artefacts have been sanitised to prevent re-identification
 or misuse while preserving academic value.
 
