@@ -1,5 +1,10 @@
 # Digital Forensics and Incident Management  
 
+![Status](https://img.shields.io/badge/status-academic--portfolio-blue)
+![GDPR](https://img.shields.io/badge/GDPR-compliant-green)
+![Ethics](https://img.shields.io/badge/ethical%20review-completed-brightgreen)
+
+
 ## Redacted Academic Case Study
 
 This repository contains a redacted digital forensics and incident management
