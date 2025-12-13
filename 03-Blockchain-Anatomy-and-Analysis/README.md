@@ -2,6 +2,7 @@
 ![Ethics](https://img.shields.io/badge/ethical%20review-completed-brightgreen)
 ![GDPR](https://img.shields.io/badge/GDPR-compliant-green)
 ![Methodology](https://img.shields.io/badge/methodology-documented-blueviolet)
+![Domain](https://img.shields.io/badge/domain-blockchain%20analysis-orange)
 
 
 # Blockchain Anatomy & Analysis
