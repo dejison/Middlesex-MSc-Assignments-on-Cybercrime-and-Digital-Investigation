@@ -15,6 +15,20 @@ The investigation followed a structured OSINT workflow:
 All sources were assessed for credibility, relevance, and potential bias.
 
 
+## Risk and Incident Analysis Perspective
+
+From a risk and incident management perspective, the FTX collapse highlights
+systemic governance, liquidity, and oversight failures that escalated into
+a major organisational incident.
+
+Key considerations include:
+- Breakdown of internal controls and risk segregation
+- Delayed detection despite public warning indicators
+- Challenges of incident response in decentralised financial ecosystems
+- Importance of early risk indicators in preventing systemic failure
+
+
+
 ## Disclaimer
 
 This project was completed for academic purposes.  
