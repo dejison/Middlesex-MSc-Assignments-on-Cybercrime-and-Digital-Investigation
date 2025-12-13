@@ -23,3 +23,14 @@ This repository represents original academic work submitted for educational
 purposes. All sources are cited where applicable. Redactions were applied
 to ensure ethical and lawful disclosure.
 
+
+## Future Work
+
+If extended beyond the scope of this coursework, future work could include:
+
+- Memory analysis for volatile artefacts
+- Network traffic reconstruction
+- Correlation with external OSINT sources
+- Formal threat-assessment framework application
+
+
