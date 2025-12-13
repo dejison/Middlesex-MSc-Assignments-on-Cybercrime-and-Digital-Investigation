@@ -4,6 +4,13 @@ All real addresses anonymised; visualised using an open-source blockchain explor
 
 
 
+## Academic Context
+
+This repository presents an academic cryptocurrency and blockchain investigation conducted using open-source intelligence (OSINT) techniques. The project demonstrates analytical methodology, evidential reasoning, and forensic limitations in blockchain-based investigations. It does not constitute legal findings, allegations, or real-world attribution.
+
+
+
+
 
 
 
