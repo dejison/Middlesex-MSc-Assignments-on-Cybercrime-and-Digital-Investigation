@@ -10,7 +10,6 @@ Personal identifiers, behavioural data, operational details, and content
 capable of enabling harm or re-identification have been removed, summarised,
 or excluded entirely.
 
-For full details, see **ETHICS.md**.
 
 ---
 
