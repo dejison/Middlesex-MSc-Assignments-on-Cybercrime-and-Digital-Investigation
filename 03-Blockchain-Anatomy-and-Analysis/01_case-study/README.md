@@ -19,3 +19,10 @@ From a risk and incident analysis perspective, this project highlights:
 - Limitations of pseudonymity in preventing analysis
 - Challenges in attribution without off-chain intelligence
 - Importance of ethical boundaries in blockchain investigations
+
+- ## Academic Integrity Statement
+
+This repository represents original academic work.
+All analysis is based on publicly accessible blockchain data
+and is presented for educational purposes only.
+
