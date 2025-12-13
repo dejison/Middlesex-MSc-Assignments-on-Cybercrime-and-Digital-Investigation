@@ -13,14 +13,6 @@ or excluded entirely.
 
 ---
 
-## Academic Integrity Statement
-
-This repository represents original academic work submitted for educational
-purposes. All sources are cited where applicable, and all redactions were
-applied to ensure ethical and lawful disclosure.
-
----
-
 ## Intended Use
 
 This repository is intended for:
