@@ -66,6 +66,11 @@ All sources were assessed for credibility, relevance, and potential bias.
 - OSINT analysis proved effective in reconstructing timelines without access to privileged data.
 
 
+Redaction has been applied in accordance with UK GDPR (Option C).  
+See ETHICS.md for the full redaction methodology.
+
+
+
 
 
 
