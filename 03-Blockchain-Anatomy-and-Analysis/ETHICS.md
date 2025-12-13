@@ -9,7 +9,7 @@ behind wallet addresses.
 
 
 
-Intended Use
+## Intended Use
 This repository is intended for:
 
 Academic assessment and coursework review
