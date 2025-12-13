@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-academic--portfolio-blue)
+![Ethics](https://img.shields.io/badge/ethical%20review-completed-brightgreen)
+![GDPR](https://img.shields.io/badge/GDPR-compliant-green)
+![Methodology](https://img.shields.io/badge/methodology-documented-blueviolet)
+
+
 # Blockchain Anatomy & Analysis
 Traced Bitcoin transactions from the dark-market seizure dataset.
 All real addresses anonymised; visualised using an open-source blockchain explorer.
