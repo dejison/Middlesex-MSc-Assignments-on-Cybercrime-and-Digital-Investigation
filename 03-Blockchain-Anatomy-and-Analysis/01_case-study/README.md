@@ -27,9 +27,6 @@ All analysis is based on publicly accessible blockchain data
 and is presented for educational purposes only.
 
 
-## Academic Integrity Statement
 
-This repository represents original academic work.
-All analysis is based on publicly accessible blockchain data
 and is presented for educational purposes only.
 
